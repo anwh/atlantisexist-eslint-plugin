@@ -1,7 +1,8 @@
 {
-  "name": "@atlantisexist/eslint-plugin-general",
-  "version": "0.0.1",
+  "name": "@atlantisexist/eslint-plugin",
+  "version": "0.0.2",
   "license": "MIT",
+  "description": "",
   "keywords": [],
   "author": "anwh <isuprun208@gmail.com>",
   "main": "dist/index.js",

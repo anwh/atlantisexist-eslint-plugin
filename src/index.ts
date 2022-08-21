@@ -1,9 +1,11 @@
 import {featureName} from './rules/featureName';
 
 const configs = {
-  'plugins': [
-    '@atlantisexist/eslint-plugin-general',
-  ],
+  'white': {
+    'plugins': [
+      '@atlantisexist/eslint-plugin',
+    ],
+  },
 };
 
 const rules = {
